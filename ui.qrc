@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/ui">
+        <file>ui/titulo.png</file>
+        <file>ui/btn_1.png</file>
+        <file>ui/btn_2.png</file>
+        <file>ui/btn_3.png</file>
+        <file>ui/btn_4.png</file>
+        <file>ui/btn_5.png</file>
+        <file>ui/btn_6.png</file>
+    </qresource>
+</RCC>
